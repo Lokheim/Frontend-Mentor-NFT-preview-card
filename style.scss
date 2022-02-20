@@ -21,8 +21,9 @@ body {
       width: 90%;
       height: 270px;
       background-color: hsla(178, 100%, 50%, 0.356);
+      overflow: hidden;
+      border-radius: 15px;
       img {
-        border-radius: 15px;
         height: 100%;
         width: 100%;
       }
